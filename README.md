@@ -1,6 +1,6 @@
 <p align="center">
 
-<h1 align="center">👨‍💻 Fernanda</h1>
+<h1 align="center">👨‍💻 F3rn</h1>
 <h3 align="center">Student Web Developer | Technology Enthusiast</h3>
 
 <p align="center">
@@ -9,11 +9,11 @@
 
 ---
 
-# 💀 WHOAMI
+#  WHOAMI
 
 ```bash
-> Name: Fernanda
-> Role: Student Web Developer
+> Name: F3rn
+> Role: Nganggur
 > Country: France
 > Focus: Web Development
 > Learning: Astro, Javascript, Python
@@ -22,7 +22,7 @@
 
 ---
 
-# ⚡ TECH STACK
+#  TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,mysql,git,github,vscode" />
@@ -30,7 +30,7 @@
 
 ---
 
-# 🧠 CURRENTLY LEARNING
+#  CURRENTLY LEARNING
 
 ```bash
 > HTML
