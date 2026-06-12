@@ -16,3 +16,36 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: frforfr77
+
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Jakarta
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+
+          plugin_lines: yes
+
+          plugin_isocalendar: yes
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_stars: yes
+
+          plugin_followup: yes
+
+          plugin_repositories: yes
+          plugin_repositories_featured: frforfr77/frforfr77
+
+          plugin_topics: yes
+          plugin_topics_limit: 15
+
+          config_display: large
+          config_padding: 0
+
+          filename: github-metrics.svg
