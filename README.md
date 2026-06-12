@@ -25,7 +25,7 @@
 #  TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,bootstrap,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,Astro,bootstrap,,git,github,vscode" />
 </p>
 
 ---
