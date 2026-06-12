@@ -14,9 +14,9 @@
 ```bash
 > Name: Fernanda
 > Role: Student Web Developer
-> Country: Indonesia
+> Country: France
 > Focus: Web Development
-> Learning: JavaScript, PHP, Laravel
+> Learning: Astro, Javascript, Python
 > Goal: Software Engineer
 ```
 
@@ -36,9 +36,7 @@
 > HTML
 > CSS
 > JavaScript
-> PHP
-> Laravel
-> MySQL
+> Astro
 > Git & GitHub
 ```
 
@@ -55,8 +53,4 @@
 
 <p align="center">
 <i>"Talk is cheap. Show me the code."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=120&section=footer"/>
 </p>
